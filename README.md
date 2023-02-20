@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <a> <img src="https://cdn.jsdelivr.net/gh/devicons/dev" alt="javascript" width="40" height="40"/> </a>
+ <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
